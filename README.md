@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-silk-six-58.vercel.app"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://aazedev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:ajayk26197@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ajay-kumar-524753292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/ajayk26197"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -44,40 +44,64 @@ public class AjayKumar {
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td><b>💻 Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,c,js" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🎨 Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🔧 Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" alt="Tools" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-36BCF7?style=for-the-badge" alt="MERN" />
+  <img src="https://img.shields.io/badge/DSA-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="DSA in Java" />
+  <img src="https://img.shields.io/badge/REST-APIs-6DB33F?style=for-the-badge" alt="REST APIs" />
+</p>
 
-**📚 CS Fundamentals:** Data Structures & Algorithms · DBMS / RDBMS · Operating Systems · Computer Networks · Computer Organization & Architecture
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+### 📚 CS Fundamentals
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-36BCF7?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/DBMS%20%2F%20RDBMS-36BCF7?style=flat-square" alt="DBMS" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-36BCF7?style=flat-square" alt="OS" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-36BCF7?style=flat-square" alt="CN" />
+  <img src="https://img.shields.io/badge/Computer%20Organization%20%26%20Architecture-36BCF7?style=flat-square" alt="COA" />
+</p>
 
 ---
 
@@ -160,7 +184,7 @@ My portfolio website showcasing my skills, projects and experience, built with *
 
 <p>
   <a href="https://github.com/ajayk26197/myPortfolio"><img src="https://img.shields.io/badge/📂%20Repository-myPortfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="myPortfolio repo" /></a>
-  <a href="https://my-portfolio-silk-six-58.vercel.app"><img src="https://img.shields.io/badge/🚀%20Live%20Site-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" /></a>
+  <a href="https://aazedev.vercel.app"><img src="https://img.shields.io/badge/🚀%20Live%20Site-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" /></a>
 </p>
 
 ---
@@ -226,7 +250,7 @@ I'm open to **internships, entry-level roles, and collaborations**. Feel free to
 
 <p align="center">
   <a href="mailto:ajayk26197@gmail.com"><img src="https://img.shields.io/badge/ajayk26197%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://my-portfolio-silk-six-58.vercel.app"><img src="https://img.shields.io/badge/View%20Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://aazedev.vercel.app"><img src="https://img.shields.io/badge/View%20Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
