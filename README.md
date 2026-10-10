@@ -154,7 +154,14 @@ public class AjayKumar {
   </tr>
 </table>
 
-> 🌐 More work on my portfolio: **[my-portfolio-silk-six-58.vercel.app](https://my-portfolio-silk-six-58.vercel.app)** · Source: [myPortfolio](https://github.com/ajayk26197/myPortfolio)
+### 🌐 myPortfolio — Personal Developer Portfolio
+
+My portfolio website showcasing my skills, projects and experience, built with **React, Vite, Node.js, Express.js and MongoDB**.
+
+<p>
+  <a href="https://github.com/ajayk26197/myPortfolio"><img src="https://img.shields.io/badge/📂%20Repository-myPortfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="myPortfolio repo" /></a>
+  <a href="https://my-portfolio-silk-six-58.vercel.app"><img src="https://img.shields.io/badge/🚀%20Live%20Site-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" /></a>
+</p>
 
 ---
 
@@ -169,8 +176,37 @@ public class AjayKumar {
   <img src="https://streak-stats.demolab.com?user=ajayk26197&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
+---
+
+## 🚀 Contribution Activity
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajayk26197&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <a href="https://github.com/ajayk26197">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajayk26197&theme=tokyonight" height="180px" alt="Profile details" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ajayk26197">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajayk26197&theme=tokyonight" height="180px" alt="Repos per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajayk26197&theme=tokyonight" height="180px" alt="Most commit language" />
+  </a>
+</p>
+
+## 🎯 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/ajayk26197">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayk26197&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+  </a>
+</p>
+
+## ✨ GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ajayk26197">
+    <img src="https://github-profile-trophy.vercel.app/?username=ajayk26197&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  </a>
 </p>
 
 ---
@@ -180,14 +216,6 @@ public class AjayKumar {
 <p align="center">
   <img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajayk26197/ajayk26197/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
